@@ -1,0 +1,10 @@
+public class Maths01
+{
+    public static void main()
+    {
+        int x = 10;
+        int b = 10*x+10 ; // Multiplication will be evaluated first
+        int z = (x/10) - (b/11);
+        System.out.println(z);
+    }
+}
