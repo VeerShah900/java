@@ -8,3 +8,4 @@ public class square_Root {
         double a = sc.nextInt();
         System.out.println("The square root of " + a + " is " + Math.sqrt(a));
     }
+}
