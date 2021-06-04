@@ -1,0 +1,10 @@
+import java.util.Scanner;
+import java.lang.Math;
+public class square_Root {
+    public static void main(String Args[])
+    {
+        System.out.println("Enter number of which you want to find root");
+        Scanner sc = new Scanner(System.in);
+        double a = sc.nextInt();
+        System.out.println("The square root of " + a + " is " + Math.sqrt(a));
+    }
