@@ -1,0 +1,7 @@
+public class hi
+     { 
+public static void main(int a)
+  {
+        System.out.println(a);
+  }
+     }
