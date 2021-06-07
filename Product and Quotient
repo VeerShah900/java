@@ -1,0 +1,11 @@
+public class mod_3
+{
+public static void main(int m)
+    {
+  int num = 2;
+  int product = m*num;
+  double quotient = m / num;
+  System.out.println(quotient);  
+  System.out.println(product);
+    }
+}
