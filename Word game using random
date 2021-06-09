@@ -1,0 +1,44 @@
+import java.lang.Math;
+
+import java.util.Random;
+import java.util.Scanner;
+public class word_Game {
+    public static  void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        Scanner sc1 = new Scanner(System.in);
+        Scanner sc2 = new Scanner(System.in);
+        System.out.println("Welcome to Veer's land...Type 1  to continue you can type exit at any time to exit not now");
+        int a = sc.nextInt();
+//double b1 = 0.0001;
+        if (a == 1) {
+            System.out.println("Welcome you have entered our land...Type what you want to do that is play or exit");
+            String a1 = sc1.nextLine();
+            if (a1.equals("play") || a1.equals("Play")) {
+                System.out.println("Enter integer less than 6 greater than 0: ");
+                           int b = sc2.nextInt();
+                Random veer = new Random();
+               int  math =  veer.nextInt(6 );
+                if (b == math) {
+                        System.out.println("Correct guess");
+                    }
+                    else {
+                        System.out.println("Incorrect guess number we guessed was " + math );
+//                    System.out.println(sc2); I tried this,having issues with random nos. part
+//                    System.out.println(sc1);
+                    }
+
+
+
+            }
+            else if (a1.equals("Exit") || a1.equals("exit"))
+            {
+                System.out.println("Ok");
+
+            }
+        }
+        else{
+            System.out.println("Shoo out of here idiot"); 
+        }
+    }}//end function and class
+
+
