@@ -32,12 +32,12 @@ public class word_Game {
             }
             else if (a1.equals("Exit") || a1.equals("exit"))
             {
-                System.out.println("Ok");
+                System.out.println("Ok exiting...");
 
             }
         }
         else{
-            System.out.println("Shoo out of here idiot"); 
+            System.out.println("Please enter valid text"); 
         }
     }}//end function and class
 
