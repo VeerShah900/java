@@ -25,11 +25,7 @@ public class module3_chapter2 {
 
 
         if (age > 100 || name > 3){
-            System.out.println("Compiling...");
-        System.out.println("Executing virus task....");
-        System.out.println("Putting the virus....");
-        System.out.println("You are overage and u will die due to damage of your laptop HAHA....");
-        System.out.println("Deactivating the antivirus");
+            System.out.println("Enter proper age or number")
     }
 
  }}
