@@ -1,4 +1,4 @@
-import java.lang.Math;
+
 
 import java.util.Random;
 import java.util.Scanner;
@@ -23,8 +23,6 @@ public class word_Game {
                     }
                     else {
                         System.out.println("Incorrect guess number we guessed was " + math );
-//                    System.out.println(sc2); I tried this,having issues with random nos. part
-//                    System.out.println(sc1);
                     }
 
 
