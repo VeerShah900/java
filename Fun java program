@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class module3_chapter2 {
     public static void main(String[] args) {
         System.out.println("Enter Age");
