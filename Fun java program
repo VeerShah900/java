@@ -19,7 +19,7 @@ public class module3_chapter2 {
         if (name == 2) {
             System.out.println("OO But I know this program is the best");}
         if (name == 3){
-            System.out.println("A comment to you you are idiot person butt I know I am the best");
+            System.out.println("A comment to you I know I am the best");
         }
 
 
