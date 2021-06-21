@@ -1,0 +1,10 @@
+public class demoprog {
+    public static void demo() {
+        int p,r,T;
+        p = 2000;
+        r = 5;
+        T = 10;
+        double formula = (p*r*T)/100;
+        System.out.println("Simple interest is" + formula);
+    }
+}
