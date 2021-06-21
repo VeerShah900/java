@@ -1,0 +1,7 @@
+public class circle {
+    public static void main(String[] args) {
+        float r= 2.12f;
+        double b = (3.14*r*r);
+        System.out.println("Area of circle is" + b);
+    }
+}
