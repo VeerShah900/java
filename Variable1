@@ -1,0 +1,13 @@
+public class variable1{
+    public static void main()
+    {
+        float f = 3.1f;
+        float a = -31.9f;
+        float diff = a - f;
+        System.out.println(diff);
+        System.out.println(a);
+        System.out.println(f);
+
+
+    }
+}
