@@ -1,0 +1,10 @@
+
+public class symbol
+{
+    
+  public void disp(){
+      final int r = 10;
+      System.out.println(r);
+      
+  }
+}
