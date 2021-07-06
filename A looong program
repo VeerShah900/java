@@ -1,0 +1,41 @@
+//This is program 1
+/**
+ * Hi
+ * program on
+  *Operators
+  *Long soo much typing
+  
+ */
+public class ArithematicOperator
+{
+    public void main()
+    {
+        int a;
+        a=23;
+        int b ;
+        b= 12;
+        int c;
+        c= 90;
+        int d ;
+        d= 1000;
+        float f ;
+        f= 9.32f;
+        float e ;
+        e = 4.3f;
+        int sum;
+        sum = a + b;
+        float product;
+        product = e*f;
+        int sum1;
+        sum1= a-c;
+        float sum2;
+        sum2= (e+f);
+        System.out.println("Add ur own text I wont type soo much" +sum);   
+        System.out.println(product);      
+        System.out.println(sum1);   
+        System.out.println(sum2);   
+        System.out.println(a + " + " +f+" is " + (a+f));   
+
+
+    }
+}
