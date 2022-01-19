@@ -1,0 +1,201 @@
+import java.util.*;
+
+public class exam{
+    //Some hard programs realated to iteration in java
+    
+    // Program to printsum of numbers 😎
+
+    //....
+    //..........
+    //...................
+
+    // public static void main(String[] args) {
+    //     Scanner sc = new Scanner(System.in);
+    //     System.out.println("Enter the numbers");
+    //     long num = sc.nextLong();
+    //     long temp =num;
+    //     long sum = 0;
+    //     do{
+    //         long digits = temp%10;
+    //         sum = sum+digits;
+    //         temp = temp/10;
+    //     }
+    //     while(temp > 0);
+    //     System.out.println("Sum is " + sum);
+    // }
+    // Program end
+
+
+
+
+
+
+
+
+
+
+
+    // ^.^
+    // Program to print table of number 😎
+    
+    //....
+    //..........
+    //...................
+
+
+    // public static void main(String[] args) {
+    //     Scanner sc = new Scanner(System.in);
+    //     System.out.println("Enter the number");
+    //     int a = sc.nextInt();
+    //     int product= 0;
+    //     for (int numbers = 0; numbers < 10; numbers++) {
+    //         product = a*numbers;
+    //         System.out.println(a + " X " + numbers + " = " + product);
+    //     }
+    // }
+    // Program end
+
+
+
+
+
+
+
+
+
+    
+    // ^.^
+    // Program to print factor of number 😎
+    
+    //....
+    //..........
+    //...................
+
+    
+    // public static void main(String[] args) {
+    //     Scanner sc = new Scanner(System.in);
+    //     System.out.println("Enter the number");
+    //     int num = sc.nextInt();
+    //     int a = 1;
+    //     int sum = 0;
+    //     int temp = 0;
+
+    //     while(a<num)
+    //     {
+    //         if (num%a == 0) {
+    //             temp = a;
+    //             System.out.println(a);
+    //             sum+=a;
+    //         } 
+    //         a++;
+    //     }
+    //     System.out.println("Sum is" + sum);
+    // }
+    // Program end
+
+
+
+
+
+
+
+
+
+    
+    // ^.^
+    // Program to print first 10 numbers of fibonacci series  😎
+    
+    //....
+    //..........
+    //...................
+
+
+    // public static void main(String[] args) {
+    //     int f = 0;
+    //     int s = 1;
+    //     int t;
+    //     System.out.println(f+" " +s);
+    //     for (int i = 1; i <= 10; i++) {
+    //         t=f+s;
+    //         System.out.println(t);
+    //         f = s;
+    //         s = t;
+    //     }
+    // }
+    //Program end
+
+
+
+
+
+
+
+
+
+
+        
+    // ^.^
+    // Program to find and print numbers in reverse order  😎
+    
+    //....
+    //..........
+    //...................
+
+
+    // public static void main(String[] args) {
+    //     // Here i have hardcoded the number
+    //     int num = 34689128;
+    //     //Use scanner instead
+    //     int d = 0;
+    //     int huh = 0;
+    //     while (num != 0) {
+    //         d=num%10;
+    //         huh = (huh*10)+d;
+    //         num = num/10;
+    //         //Like a reverse number nm = 10*n+m
+    //     }
+    //     System.out.println("REVERSE NUMBER IS " + huh);
+    // }
+    //Program End
+    
+
+
+
+
+
+
+
+
+
+        
+    // ^.^
+    // Program to check whether number is an AMstrong number  😎
+    
+    //....
+    //..........
+    //...................
+
+
+    //    public static void main(String[] args) {
+    //        Scanner sc = new Scanner( System.in );
+    //        System.out.println("Enter the number to check whether its Amstrong number");
+    //        int num = sc.nextInt();
+    //        int d = 0;
+    //        int temp = num;
+    //        int c = 0;
+    //        while (num != 0) {
+    //            d = num%10;
+    //            c = c + (d*d*d);
+    //            num = num/10;
+    //         }
+    //         if(c == temp){
+    //             System.out.println("Amstrong number");
+    //         }
+    //         else{
+    //             System.out.println("Not a amstrong number");
+    //         }
+
+    //     }
+    //Program End
+}
+//Uncomment for whatever program you want
