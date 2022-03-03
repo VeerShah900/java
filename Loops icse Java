@@ -197,5 +197,52 @@ public class exam{
 
     //     }
     //Program End
+    
+            //^.^
+        //Program to find special number
+        //....
+        //..........
+        //...................
+        // public static void main(String[] args) {
+        //     Scanner sc = new Scanner(System.in);
+        //     int a = sc.nextInt();
+        //     int temp = a;
+        //     int sum = 0;
+        //     int product = 1;
+        //     while (temp!=0)      
+        //     {
+        //         int digit = temp%10;
+        //         sum+=digit;
+        //         product = product* digit;
+        //         temp/=10;
+        //     }
+
+        //     if (sum+product == a) {
+        //         System.out.println("Special number");
+        //     } else {
+        //         System.out.println("Not Special number");
+                
+        //     }
+        // }
+        //Program End
+
+
+        // public static void main(String[] args) {
+        //     for (int i = 0; i <= 2 ; i++) {
+        //         for (int j = 0; j <= 2; j++) {
+        //             // @ # #
+        //             // # @ #
+        //             // # # @
+                    
+        //             if (i==j) {
+        //                 System.out.print(" @ ");
+        //             }
+        //             else{
+        //                 System.out.print(" # ");
+        //             }
+        //         }
+        //         System.out.println( );
+        //     }
+        // }
 }
 //Uncomment for whatever program you want
